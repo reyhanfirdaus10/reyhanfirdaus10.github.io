@@ -27,3 +27,25 @@ body {
 .hamburger-active > span:nth-child(3) {
   @apply -rotate-45;
 }
+
+.gradien1 {
+  background: linear-gradient(#ffffff, #bfdbfe);
+}
+.gradien2 {
+  background: linear-gradient(#dbeafe, #bfdbfe);
+}
+.gradien3 {
+  background: linear-gradient(#bfdbfe, #93c5fd);
+}
+.gradien4 {
+  background: linear-gradient(#93c5fd, #bfdbfe);
+}
+.gradien5 {
+  background: linear-gradient(#bfdbfe, #eff6ff);
+}
+.gradien6 {
+  background: linear-gradient(#eff6ff, #1d4ed8);
+}
+.gradien7 {
+  background: linear-gradient(#1d4ed8, #172554);
+}
